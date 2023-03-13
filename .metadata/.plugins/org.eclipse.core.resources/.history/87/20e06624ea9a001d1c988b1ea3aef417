@@ -1,0 +1,15 @@
+package learningOOP;
+
+public class Student {
+
+	private String name;
+	ArrayList<Integer> marks = new ArrayList<Integer>();
+
+	public Student(String name, int... marks) {
+		this.name = name;
+
+		for (int mark : marks) {
+			marks.add(mark);
+		}
+	}
+}

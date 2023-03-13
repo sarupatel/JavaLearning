@@ -1,0 +1,10 @@
+package com.in28minutes.learnspringboot.courses.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class CoursesController {
+
+		@GetMapping
+		public List<Courses>.asList(new Course(1, "Learn Microservices", "in28minutes"));
+}

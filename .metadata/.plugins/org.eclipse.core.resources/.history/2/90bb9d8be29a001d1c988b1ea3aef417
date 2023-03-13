@@ -1,0 +1,10 @@
+package learningOOP;
+
+public class StringArrayRun {
+
+	public static void main(String[] args) {
+
+		StringArray array = new StringArray("Cabbage", "Cauliflower", "Brinjal", "Potato")
+	}
+
+}

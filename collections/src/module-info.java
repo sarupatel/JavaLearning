@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author erhir
+ *
+ */
+module collections {
+}

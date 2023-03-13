@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.Callable"/>
+    <fullyQualifiedTypeName name="java.util.function.Predicate"/>
+    <fullyQualifiedTypeName name="com.in28minutes.learspringframework.game.PacmanGame"/>
+    <fullyQualifiedTypeName name="com.in28minutes.learspringframework.game.GameRunnerSpringBeans"/>
+    <fullyQualifiedTypeName name="com.in28minutes.learspringframework.game.GamingConsole"/>
+    <fullyQualifiedTypeName name="com.in28minutes.learnspringboot.courses.bean.Course"/>
+</qualifiedTypeNameHistroy>

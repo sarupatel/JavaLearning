@@ -1,0 +1,7 @@
+package learningOOP;
+
+public class Student {
+
+	private String name;
+	ArrayList<Integer> arrayList = new ArrayList<Integer>;
+}

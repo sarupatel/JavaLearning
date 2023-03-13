@@ -1,0 +1,11 @@
+package learningOOP;
+
+public class ArrayExamplesRunner {
+
+	public static void main(String[] args) {
+		int[] marks = { 86, 88, 95 };
+		ArrayExamples array = ArrayExamples("sarita", marks);
+		
+	}
+
+}

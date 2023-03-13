@@ -1,0 +1,33 @@
+package learningOOP;
+
+public class ArrayExamples {
+
+	private String name;
+	private int[] marks;
+
+	public ArrayExamples(String name, int[] marks) {
+		this.name = name;
+		this.marks = marks;
+
+	}
+
+	public int getNumberOfMarks() {
+		return marks.length;
+	}
+
+	public int sumOfMarks() {
+		int sum = 0;
+		for (int mark : marks) {
+			sum = sum + mark;
+		}
+		return sum;
+	}
+
+	public int getMaximumMark() {
+		for (int mark : marks) {
+
+		}
+
+	}
+
+}

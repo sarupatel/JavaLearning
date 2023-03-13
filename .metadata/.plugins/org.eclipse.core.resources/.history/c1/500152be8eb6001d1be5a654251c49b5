@@ -1,0 +1,18 @@
+package com.in28minutes.learspringframework.game;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class GameRunnerSpringBeans {
+
+
+	@Bean
+	public GamingConsole game() {
+		var game = new PackmanGame();
+		return game;
+		;
+
+	}
+
+}

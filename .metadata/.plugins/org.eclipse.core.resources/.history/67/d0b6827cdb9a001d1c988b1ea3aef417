@@ -1,0 +1,19 @@
+package learningOOP;
+
+import java.math.BigDecimal;
+
+public class ArrayExamplesRunner {
+
+	public static void main(String[] args) {
+		int[] marks = { 86, 88, 95 };
+		ArrayExamples array = new ArrayExamples("sarita", marks);
+		
+		int number = array.getNumberOfMarks();
+		int sum = array.sumOfMarks();
+		int maximumMarks = array.getMaximumMark();
+		int minimumMarks = arraygetminimumMar();
+		BigDecimal average = array.getAverageMarks();
+
+	}
+
+}

@@ -1,0 +1,9 @@
+package com.in28minutes.learspringframework.example.c1;
+
+public class MongoDbDataService implements DataService {
+
+	public int[] retreiveData() {
+		return new int[] { 11, 22, 33, 44, 55 };
+	}
+
+}

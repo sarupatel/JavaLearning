@@ -1,0 +1,12 @@
+package com.in28minutes.learspringframework.example.a1;
+
+public interface GamingConsole {
+	void up();
+
+	void down();
+
+	void left();
+
+	void right();
+
+}

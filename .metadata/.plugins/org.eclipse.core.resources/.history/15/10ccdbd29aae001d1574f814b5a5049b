@@ -1,0 +1,9 @@
+package com.in28minutes.concurrency;
+
+public class ConcurrentMapRunner {
+	public static void main(String[] args) {
+
+		ConcurrentMap<Character, LongAdder> occurances = new ConcurrentHashMap<>();
+		
+	}
+}

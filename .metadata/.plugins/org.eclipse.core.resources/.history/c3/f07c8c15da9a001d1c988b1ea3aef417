@@ -1,0 +1,23 @@
+package learningOOP;
+
+public class ArrayExamples {
+
+	private String name;
+	private int[] marks;
+
+
+
+	public ArrayExamples(String name, int[] marks) {
+		this.name = name;
+		this.marks = marks;
+
+	}
+
+	public void sumOfMarks() {
+		int sum = 0;
+		for (int mark : marks) {
+			sum = sum + mark;
+		}
+	}
+
+}

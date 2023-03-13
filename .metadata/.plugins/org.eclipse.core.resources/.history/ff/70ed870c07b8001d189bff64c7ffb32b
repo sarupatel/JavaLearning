@@ -1,0 +1,8 @@
+package com.in28minutes.learnspringboot.courses.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class CoursesController {
+
+}

@@ -1,0 +1,13 @@
+package learningOOP;
+
+public class ArrayExamples {
+
+	private String name;
+	
+private[]int marks = new int[5];
+
+public ArrayExamples(String name, int[] marks) {
+	
+}
+
+}

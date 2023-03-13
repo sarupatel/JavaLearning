@@ -1,0 +1,23 @@
+package learningOOP;
+
+import java.math.BigDecimal;
+
+public class StudentRunner {
+
+	public static void main(String[] args) {
+		Student student = new Student("hiren", 84, 98, 99, 100); // when size of array is not fixed
+
+		int number = student.getNumberOfMarks();
+		int sum = student.sumOfMarks();
+		int maximumMarks = student.getMaximumMark();
+		int minimumMarks = student.getminimumMark();
+		BigDecimal average = student.getAverageMarks();
+		System.out.println("Number of marks " + number);
+		System.out.println("Sum of Marks " + sum);
+		System.out.println("Maximum Marks " + maximumMarks);
+		System.out.println("Minimum Marks " + minimumMarks);
+		System.out.println("Average Marks " + average);
+
+	}
+
+}

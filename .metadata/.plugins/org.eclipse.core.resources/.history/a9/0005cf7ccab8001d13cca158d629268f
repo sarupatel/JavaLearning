@@ -1,0 +1,5 @@
+package com.in28minutes.learnspringboot.courses.repository;
+
+public interface CourseRepository extends JpaRepository(Course, Long) {
+
+}

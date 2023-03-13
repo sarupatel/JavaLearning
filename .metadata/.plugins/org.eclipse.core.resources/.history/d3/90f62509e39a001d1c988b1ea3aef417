@@ -1,0 +1,11 @@
+package learningOOP;
+
+public class StringArray {
+
+	private String[] daysOfWeek;
+
+	public StringArray(String... daysOfWeek) {
+		this.daysOfWeek = daysOfWeek;
+	}
+
+}

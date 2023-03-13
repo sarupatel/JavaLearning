@@ -1,0 +1,4 @@
+#logging.level.org.springfframework=DEBUG
+#management.endpoints.web.exposure.include=*
+management.endpoints.web.exposure.include=metrics,health
+spring.datasource.url=jdbc:h2:mem:testdb

@@ -1,0 +1,13 @@
+package com.in28minutes.learspringframework.game;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class GameRunnerSpringBeans {
+
+@Bean
+public void up() {
+	
+}
+
+}

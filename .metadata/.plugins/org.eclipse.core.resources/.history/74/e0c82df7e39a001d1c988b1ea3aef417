@@ -1,0 +1,24 @@
+package learningOOP;
+
+public class StringArray {
+
+	private String[] daysOfWeek;
+
+	public StringArray(String... daysOfWeek) {
+		this.daysOfWeek = daysOfWeek;
+	}
+
+	public String longestName() {
+		int[] longestWeekDay;
+		int i = 0;
+		for (String dayOfWeek : daysOfWeek) {
+			longestWeekDay[i] = dayOfWeek.length();
+			i++;
+		}
+		for (int number : longestWeekDay) {
+
+		}
+		return;
+	}
+
+}

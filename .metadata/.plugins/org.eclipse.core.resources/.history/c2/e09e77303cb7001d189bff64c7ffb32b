@@ -1,0 +1,9 @@
+package com.in28minutes.learspringframework.example.c1;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class BusinessCalculationService {
+
+
+}

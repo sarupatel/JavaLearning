@@ -1,0 +1,7 @@
+package com.in28minutes.learspringframework.example.c1;
+
+@Configuration
+public class BusinessCalculationService {
+
+	
+}

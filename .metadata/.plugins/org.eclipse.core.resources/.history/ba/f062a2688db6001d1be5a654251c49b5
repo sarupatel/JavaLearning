@@ -1,0 +1,8 @@
+package com.in28minutes.learspringframework.game;
+
+@Configuration
+public class GameRunnerSpringBeans {
+
+	
+
+}
